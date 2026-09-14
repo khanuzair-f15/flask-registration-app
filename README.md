@@ -8,6 +8,8 @@ A beginner-friendly Flask web application built to practice routing, Jinja2 temp
 - **Confirmation page** (`/confirmation`) — handles the form's `POST` request and displays the submitted details back to the user
 - **Blog page** (`/web`) — a simple static blog-post layout with an image
 
+
+
 ## Project Structure
 
 ```
